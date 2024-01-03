@@ -1,5 +1,5 @@
 # Trabajo Práctico 3
-En el archivo [Trabajo Práctico 3.pdf](https://github.com/LautaroOchotorena/Redes-Neuronales/blob/0b54cd33e3c99856dd019cb4007327a3475a1eac/Trabajo%20Pr%C3%A1ctico%201/Trabajo%20Pr%C3%A1ctico%201.pdf) presentamos el modelado de disparos de una neurona mediante el modelo Integrate and Fire.
+En el archivo [Trabajo Práctico 3.pdf](https://github.com/LautaroOchotorena/Redes-Neuronales/blob/b36ff67c6581271af47197f4b77e4997e10fd138/Trabajo%20Pr%C3%A1ctico%203/Trabajo%20Pr%C3%A1ctico%203.pdf) 
 <br>
 El análisis se sigue  de los distintos casos pedidos en [Enunciados.pdf](https://github.com/LautaroOchotorena/Redes-Neuronales/blob/0be3b39dc627cc3ca8ce3500dd21dd74b6833997/Trabajo%20Pr%C3%A1ctico%201/Enunciados.pdf). 
 <br>
