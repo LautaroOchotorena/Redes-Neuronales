@@ -4,4 +4,3 @@ En el archivo [Trabajo Práctico 1.pdf](https://github.com/LautaroOchotorena/Red
 Los puntos a analizar se pueden ver en [Enunciados.pdf](https://github.com/LautaroOchotorena/Redes-Neuronales/blob/0be3b39dc627cc3ca8ce3500dd21dd74b6833997/Trabajo%20Pr%C3%A1ctico%201/Enunciados.pdf). 
 <br>
 Si se quiere encontrar un análisis más detallado de la aplicación del modelo, se recomienda ir a [Collab.ipynb](https://github.com/LautaroOchotorena/Redes-Neuronales/blob/836a92c74d1ff0bbe290acc234355ef03feb745c/Trabajo%20Pr%C3%A1ctico%201/Collab.ipynb)
-
