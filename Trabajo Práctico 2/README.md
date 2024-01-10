@@ -1,5 +1,5 @@
 # Trabajo Práctico 2
-En el archivo [Trabajo Práctico 2.pdf](https://github.com/LautaroOchotorena/Redes-Neuronales/blob/main/Trabajo%20Pr%C3%A1ctico%202/Trabajo%20Pr%C3%A1ctico%202.pdf) se presenta el Modelo neuronal de Izhikevich, para reproducir el comportamiento de distintas neuronas de tipo cortical.
+En el archivo [Trabajo Práctico 2.pdf](https://github.com/LautaroOchotorena/Redes-Neuronales/blob/main/Trabajo%20Pr%C3%A1ctico%202/Trabajo%20Pr%C3%A1ctico%202.pdf) se presenta el Modelo neuronal de Izhikevich, para **reproducir el comportamiento de distintas neuronas de tipo cortical**.
 <br>
 En el archivo [Enunciados.pdf](https://github.com/LautaroOchotorena/Redes-Neuronales/blob/main/Trabajo%20Pr%C3%A1ctico%202/Enunciados.pdf) se encuentran los puntos requeridos para desarrollarlo. 
 <br>
