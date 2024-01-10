@@ -3,6 +3,6 @@ El [Trabajo Práctico 3.pdf](https://github.com/LautaroOchotorena/Redes-Neuronal
 <br>
 Los puntos a analizar se pueden ver en el archivo [Enunciados.pdf](https://github.com/LautaroOchotorena/Redes-Neuronales/blob/main/Trabajo%20Pr%C3%A1ctico%203/Enunciados.pdf). 
 <br>
-Se recomienda visitar en [Collab.ipynb](https://github.com/LautaroOchotorena/Redes-Neuronales/blob/main/Trabajo%20Pr%C3%A1ctico%203/Collab.ipynb) para analizar la construcción de la red y su aplicación en el caso de ejemplo.
+Se recomienda visitar [Collab.ipynb](https://github.com/LautaroOchotorena/Redes-Neuronales/blob/main/Trabajo%20Pr%C3%A1ctico%203/Collab.ipynb) para analizar la construcción de la red y su aplicación.
 
 
