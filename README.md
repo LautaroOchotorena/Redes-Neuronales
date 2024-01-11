@@ -5,6 +5,5 @@ Trabajos prácticos de la materia "Redes Neuronales" de la Facultad de Matemáti
 - Trabajo Práctico 2 - **Modelo neuronal de Izhikevich**
 - Trabajo Práctico 3 - **Red feed-forward auto-encoder**
 
-**Librerías principales**:
-
+**Librerías principales**: <br>
 Numpy, PyTorch, Matplotlib y Seaborn.
