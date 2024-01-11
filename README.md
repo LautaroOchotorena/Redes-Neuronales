@@ -6,4 +6,5 @@ Trabajos prácticos de la materia "Redes Neuronales" de la Facultad de Matemáti
 - Trabajo Práctico 3 - **Red feed-forward auto-encoder**
 
 **Librerías principales**:
+
 Numpy, PyTorch, Matplotlib y Seaborn.
